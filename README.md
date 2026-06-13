@@ -82,4 +82,4 @@ Deployment using Streamlit or Flask
 👩‍💻 Author
 
 Kanan Dua – Aspiring AI & Data Analytics Engineer
-Passionate about machine learning, data-driven risk analysis, and real-world AI applications.
+Passionate about machine learning, and real-world AI applications.
